@@ -1,0 +1,45 @@
+# print("hello world")
+# print("""hello world
+# jsdfsbf
+#ksjdfbkjsn
+# jsbcjsj""")
+#print(10+2)
+#print("minii nas", 20)
+#print("hi\ndufhdu")
+#print("hfhbfd\thfbhbf")
+#print("kjdfsf\\jdnfjd")
+#ner = input("tanii ner hen be")
+#print("sain baina uu" , ner) 
+#ner = "test"
+#oo = 10
+#print(ner, too)
+#too = "39"
+#one = 30
+#too = str(one)
+#print(type(too))
+#too = input("a toog oruul")
+#he = input("b toog oruul")
+#print(int(too)+int(he))
+#ner = input("tanii ner hen be")
+#hot = input("ali hot ve")
+#print("sain baina uu",ner, "\n", hot,"tavtai moril")
+#ner = "huu"
+#print (f"hello! {ner}!")
+#ner = input("ner?")
+#nas = input("nas?")
+#mergejil = input("mergejil?")
+#print (f"minii neriig {ner} gedeg","\n", f"bi {nas}tai", "\n", f"bi {mergejil}tei")
+#print("hello world")
+ner = input("Нэрээ оруулна уу")
+nas = input("Насаа оруулна уу")
+hot = input("Аль хот вэ")
+hool = input("Ямар хоолонд дуртай вэ")
+ungu = input("Ямар өнгөнд дуртай вэ")
+muruudul = input("Ямар мөрөөдөлтэй вэ")
+print("\n----- ТАНИЛЦУУЛГА -----")
+print("нэр:", ner)
+print("нас:", nas)
+print("хот:", hot)
+print("дуртай хоол:", hool)
+print("дуртай өнгө:", ungu)
+print("мөрөөдөл:", muruudul)
